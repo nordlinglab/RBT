@@ -9,3 +9,13 @@ This process produces an output image with uniformly spaced intensity levels, im
 2. Normalize ranks to a [0, 1] interval.
 3. Scale normalized ranks to the full dynamic range of the image type. (e.g. the full dynamic range of a unit16 image is [0, 65535].)
 4. Replace original pixel intensities with the scaled ranks.
+
+# How to Apply RBT in Your Work
+
+- **For MATLAB Users**  
+  Call the `RBT.m` function from your main script.
+
+- **For Python Users**  
+  Call the `RBT.py` function from your main script.
+
+Make sure to specify the path to your input image and the directory where you want to save the output images in your main code.
