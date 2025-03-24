@@ -2,7 +2,6 @@
 import numpy as np
 
 # Rank-Based Transformation (RBT)
-
 def rbt(img_in):
     img_class = img_in.dtype
     if img_class == np.uint8:
