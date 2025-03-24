@@ -1,18 +1,10 @@
+# import packages
 import numpy as np
 
+# Rank-Based Transformation (RBT)
+
 def rbt(img_in):
-    """
-    Apply Rank-Biased Transformation (RBT) to the input image.
-
-    Parameters:
-    - img_in (numpy.ndarray): Input image to be transformed.
-
-    Returns:
-    - numpy.ndarray: Transformed image after Rank-Biased Transformation.
-    """
     img_class = img_in.dtype
-
-    # Determine format factor based on input image data type
     if img_class == np.uint8:
         format_factor = 2**8 - 1
     elif img_class == np.uint16:
@@ -22,14 +14,12 @@ def rbt(img_in):
     elif img_class == np.float64:
         format_factor = 1
 
-    # Compute unique values and ranks for the input image
+    original_shape = img_in.shape  # original size of the input image
+    
     unique_vals, rank = np.unique(img_in, return_inverse=True)
     u = len(unique_vals)
-
-    # Perform Rank-Biased Transformation
     rbt = format_factor * (rank - 1) / (u - 1)
-
-    # Convert the result to the original data type of the input image
-    img_rbt = rbt.astype(img_class)
+    
+    img_rbt = rbt.reshape(original_shape).astype(img_class) # reshape back to 2D image
 
     return img_rbt
