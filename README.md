@@ -19,3 +19,6 @@ This process produces an output image with uniformly spaced intensity levels, im
   Call the `RBT.py` function from your main script.
 
 Make sure to specify the path to your input image and the directory where you want to save the output images in your main code.
+
+# Citations
+Chen, Cheng-Hui, and Torbjörn EM Nordling. "Rank-based Transformation Algorithm (RBT) for Image Contrast Adjustment." Authorea Preprints (2023). (preprint available on DOI: 10.36227/techrxiv.22952354.v2)
