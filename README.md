@@ -21,6 +21,9 @@ This process produces an output image with uniformly spaced intensity levels, im
 Make sure to specify the path to your input image and the directory where you want to save the output images in your main code.
 
 # Citations
-If you use RBT in a projects, please cite
+If you use RBT in a project, please cite
 
-Chen, Cheng-Hui, and Torbjörn EM Nordling. "Rank-based Transformation Algorithm for Image Contrast Adjustment." Authorea Preprints (2023). (preprint available on DOI: 10.36227/techrxiv.22952354.v2)
+- Chen, Cheng-Hui, and Torbjörn EM Nordling. "Rank-based Transformation Algorithm for Image Contrast Adjustment." Authorea Preprints (2023). (preprint available on DOI: 10.36227/techrxiv.22952354.v2)
+
+# Licensing
+This project is licensed under the Apache License 2.0.
