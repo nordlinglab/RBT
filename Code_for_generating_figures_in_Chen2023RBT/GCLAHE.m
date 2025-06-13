@@ -1,6 +1,6 @@
 function [LEI, final_clip_factor, iterations] = GCLAHE(I)
 %%%%%
-% GCLAHE - Gradient-based adaptive CLAHE using similarity optimization
+% GCLAHE - Global CLAHE using similarity optimization
 %
 % Inputs:
 %   I - Original grayscale image
