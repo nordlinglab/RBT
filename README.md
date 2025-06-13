@@ -33,3 +33,4 @@ This project is licensed under the Apache License 2.0.
 - E. coli: Open access data from ''[DeepBacs](https://github.com/HenriquesLab/DeepBacs): Bacterial image analysis using open-source deep learning approaches. bioRxiv, 2021. DOI: https://doi.org/10.1101/2021.11.03.467152'' under CC0 1.0 Licence.
 - Drosophila kc167 cells: image set [BBBC002v1](https://bbbc.broadinstitute.org/BBBC002) [Carpenter et al., Genome Biology, 2006] from the Broad Bioimage Benchmark Collection [Ljosa et al., Nature Methods, 2012].
 - Mouse microglia: image set [BBBC054](https://bbbc.broadinstitute.org/BBBC054), available from the Broad Bioimage Benchmark Collection [Ljosa et al., Nature Methods, 2012], licensed under a Creative Commons Attribution 3.0 Unported License.
+- Unequalized Hawkes Bay NZ: https://en.m.wikipedia.org/wiki/File:Unequalized_Hawkes_Bay_NZ.jpg
