@@ -20,6 +20,14 @@ This process produces an output image with uniformly spaced intensity levels, im
 
 Make sure to specify the path to your input image and the directory where you want to save the output images in your main code.
 
+# How to Run Batch Processing for Method Comparison
+
+- **For MATLAB Users**  
+  Download all contents in the folder *Code_for_generating_figures_in_Chen2023RBT*, and execute the file *Methods2Gather.m* using MATLAB.
+
+- **For Python Users**  
+  The Python 3 version of this component is currently under development. We appreciate your patience. Meanwhile, you are welcome to implement your own version and contribute to the project.
+  
 # Citations
 If you use RBT in a project, please cite
 
