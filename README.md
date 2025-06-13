@@ -31,6 +31,6 @@ This project is licensed under the Apache License 2.0.
 # Sources of Example Images
 - Budding yeast: Kindly shared by Prof. Diego di Bernardo, Dr. Filippo Melonascina, and Dr. Gianfranco Fiore.
 - E. coli: Open access data from ''[DeepBacs](https://github.com/HenriquesLab/DeepBacs): Bacterial image analysis using open-source deep learning approaches. bioRxiv, 2021. DOI: https://doi.org/10.1101/2021.11.03.467152'' under CC0 1.0 Licence.
-- Drosophila kc167 cells: image set [BBBC002v1](https://bbbc.broadinstitute.org/BBBC002) [Carpenter et al., Genome Biology, 2006] from the Broad Bioimage Benchmark Collection [Ljosa et al., Nature Methods, 2012].
-- Mouse microglia: image set [BBBC054](https://bbbc.broadinstitute.org/BBBC054), available from the Broad Bioimage Benchmark Collection [Ljosa et al., Nature Methods, 2012], licensed under a Creative Commons Attribution 3.0 Unported License.
-- Unequalized Hawkes Bay NZ: https://en.m.wikipedia.org/wiki/File:Unequalized_Hawkes_Bay_NZ.jpg
+- Drosophila kc167 cells: image set [BBBC002v1](https://bbbc.broadinstitute.org/BBBC002) [Carpenter et al., Genome Biology, 2006](https://link.springer.com/article/10.1186/GB-2006-7-10-R100) from the Broad Bioimage Benchmark Collection [Ljosa et al., Nature Methods, 2012](https://www.nature.com/articles/nmeth.2083).
+- Mouse microglia: image set [BBBC054](https://bbbc.broadinstitute.org/BBBC054), available from the Broad Bioimage Benchmark Collection [Ljosa et al., Nature Methods, 2012](https://www.nature.com/articles/nmeth.2083), licensed under a Creative Commons Attribution 3.0 Unported License.
+- Unequalized Hawkes Bay NZ: https://en.m.wikipedia.org/wiki/File:Unequalized_Hawkes_Bay_NZ.jpg, licensed under a  Creative Commons Attribution 2.0 Generic license.
