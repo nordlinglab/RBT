@@ -31,7 +31,7 @@ Make sure to specify the path to your input image and the directory where you wa
 # Citations
 If you use RBT in a project, please cite
 
-- Chen, Cheng-Hui, and Torbjörn EM Nordling. "Rank-based Transformation Algorithm for Image Contrast Adjustment." Authorea Preprints (2023). (preprint available on DOI: 10.36227/techrxiv.22952354.v3)
+- Chen, Cheng-Hui, and Torbjörn EM Nordling. "Rank-based Transformation Algorithm for Image Contrast Adjustment." Authorea Preprints (2023). (preprint available on DOI: [10.36227/techrxiv.22952354.v3](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22952354.v3))
 - Chen, C. H., & Nordling, T. E. (2025). Rank-based transformation algorithm for image contrast adjustment. Signal Processing: Image Communication, 117432. (available on DOI: https://doi.org/10.1016/j.image.2025.117432)
 
 # Licensing
